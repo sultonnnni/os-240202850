@@ -2,8 +2,8 @@
 
 **Mata Kuliah**: Sistem Operasi  
 **Semester**: Genap / Tahun Ajaran 2024–2025  
-**Nama**: Bagus Alldiansyah  
-**NIM**: 240202830  
+**Nama**: Ahmad sultoni   
+**NIM**: 240202850  
 **Modul yang Dikerjakan**:  
 `Modul 5 – Audit dan Keamanan Sistem`
 
